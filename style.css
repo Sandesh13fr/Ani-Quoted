@@ -50,15 +50,15 @@ section {
     backdrop-filter: blur(2px);
   }
 }
-
-/* .sec1 { background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://iili.io/JWR1YWx.jpg'); } */
+#difh{
+  background-image: linear-gradient(to right top, #a2862f, #710505);
+}
 .sec1 { background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://iili.io/2lQcQTb.md.jpg'); }
-
-.sec2 { background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://iili.io/JWRG9yX.jpg'); }
-.sec3 { background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0.3)), url('https://iili.io/JWRMCiv.jpg'); }
-.sec4 { background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://iili.io/JWRMPLJ.jpg'); }
-.sec5 { background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://iili.io/JWRV7kP.jpg'); }
-.sec6 { background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://iili.io/JWRVNTX.jpg'); }
+.sec2 { background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://iili.io/20HfkBI.jpg');}
+.sec3 { background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0.3)), url('https://iili.io/20HBcKP.jpg'); }
+.sec4 { background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://iili.io/20HxW7t.jpg'); }
+.sec5 { background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://iili.io/20HAs1f.jpg'); }
+.sec6 { background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://iili.io/20HYt6u.jpg'); }
 
 /* Responsive Styles */
 
